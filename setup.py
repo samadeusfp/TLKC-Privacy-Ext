@@ -24,7 +24,7 @@ setuptools.setup(
     install_requires=[
         'pyfpgrowth == 1.0',
         'multiset == 2.1.1',
-        'pm4py == 1.2.10',
+        'pm4py == 1.2.11',
         'numpy >= 1.18.1',
         'p_privacy_metadata == 0.0.4',
         'pandas >= 0.24.2',
@@ -32,7 +32,7 @@ setuptools.setup(
         'python_dateutil>=2.8.1'
     ],
     project_urls={
-        'Source': 'https://github.com/m4jidRafiei/TLKC-Privacy-Ext'
+        'Source': 'https://github.com/samadeusfp/TLKC-Privacy-Ext'
     }
 )
 
